@@ -8,4 +8,4 @@
 
 ## 🛠️ Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=47Foden&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=47Foden&show_icons=true&cache_seconds=43200)
